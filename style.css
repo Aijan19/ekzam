@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+}
+
+div {
+    right: 60px;
+}
+
+/* header {
+    background-color: white;
+    width: 100%;
+    height: 42px;
+    position: fixed;
+    top: 0;
+    font-size: 30px;
+    color: black;
+} */
+
+div.logotip {
+    font-size: 42px;
+}
+
+button.sign {
+    background-color: green;
+    color: white;
+    height: 42px;
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+button.learn {
+    background-color: green;
+    color: white;
+    height: 42px;
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+button.log {
+    background-color: white;
+    height: 42px;
+}
+
+li {
+    margin-right: 60px;
+}
